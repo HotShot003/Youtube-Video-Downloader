@@ -13,6 +13,13 @@ Retrieves and displays the title and view count of the YouTube video.
 
 Downloads the video in the highest resolution available.
 
+## Tech Used :
+
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+
+
+
 # Requirements :
 
 Python 3.x
